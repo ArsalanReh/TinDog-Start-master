@@ -1,0 +1,162 @@
+body{
+  font-family: Montserrat;
+}
+.tit{
+  background-color: #ff4c68;
+  color: #fff;
+}
+font-family{
+font-family: 'Montserrat', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.con{
+padding: 3%  15%;
+
+
+}
+
+h1{
+  font-family:Extra-bold;
+  font-size: 3rem;
+  font-weight: bold;
+
+  line-height: 1.5;
+
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family:Montserrat-light;
+}
+.downlad-button{
+  margin: 5% 3% 5% 0;
+}
+.title-img{
+  padding-top: 4rem;
+  width: 60%;
+  transform: rotate(25deg);
+
+
+}
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+
+}
+
+.col-sm {
+  text-align: center;
+  padding: 5% ;
+}
+h3{
+  font-family: "Montserrat-Bold";
+  font-size:1.5rem;
+}
+p{
+  color: #8f8f8f;
+  padding: 5%;
+
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+  font-family: Ubuntu;
+  font-size: 3rem;
+  font-weight: bold;
+  padding: 0 15%;
+
+}
+.dog-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.lad-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px
+}
+
+.carousel-item{
+  height: 500px;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.price-col{
+  padding: 3% 2%;
+}
+@media (max-width:1028px) {
+  .tit{
+    text-align: center;
+  }
+  .title-img{
+    position: static;
+    transform: rotate(0);
+  }
+
+}
+#cta{
+  background-color: #ff4c68;
+   color: #fff;
+   padding: 4% 6% 6% 4%;
+   text-align: center;
+}
+.fff{
+  text-align: center;
+   font-weight: bold;
+   font-size: 3.5rem;
+   line-height: 1.5;
+
+}
+#footer{
+  padding: 7% 10%;
+  text-align: center;
+}
+.social-i{
+  margin: 10px 5px;
+  color: #ef8172;
+  font-size: 30px;
+  margin-bottom: 1rem;
+}
+.social-i:hover{
+color:  #ff4c68;
+}
